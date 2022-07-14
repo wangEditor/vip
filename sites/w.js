@@ -1,10 +1,11 @@
 /**
- * @description name w 开头的网站信息
+ * @description 注册 name 以 w 开头的网站信息
  * @author wangfupeng
  */
 
 try {
-  window.wangEditorRegisterSite([
+  window.wangEditorRegisterVipSite([
+
     // wangEditor demo
     {
       name: 'wangEditor-demo',
@@ -15,5 +16,5 @@ try {
     // 其他网站
   ])
 } catch(err) {
-  console.warn('wangEditorRegisterSite error', err)
+  console.warn('wangEditorRegisterVipSite error', err)
 }
