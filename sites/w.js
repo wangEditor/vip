@@ -4,7 +4,7 @@
  */
 
 try {
-  window.wangEditorRegisterVipSite([
+  window.__wangEditorRegisterVipSite([
 
     // wangEditor demo
     {
