@@ -9,7 +9,7 @@ try {
     // wangEditor demo
     {
       name: 'wangEditor-demo',
-      domain: 'www.wangeditor.com', // location.hostname
+      hostname: 'www.wangeditor.com', // location.hostname
       expire: '2023-8-15 23:59:59'  // 失效时间
     },
 
